@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/07b03b138ddb43c7939efd47a7625809/artifacts
+end_time: 1736137489535
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 07b03b138ddb43c7939efd47a7625809
+run_name: classy-deer-236
+run_uuid: 07b03b138ddb43c7939efd47a7625809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137489027
+status: 4
+tags: []
+user_id: c

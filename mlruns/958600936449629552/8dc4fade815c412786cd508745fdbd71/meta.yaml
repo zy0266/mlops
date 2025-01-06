@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/8dc4fade815c412786cd508745fdbd71/artifacts
+end_time: 1736132788094
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 8dc4fade815c412786cd508745fdbd71
+run_name: auspicious-eel-983
+run_uuid: 8dc4fade815c412786cd508745fdbd71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736132783010
+status: 3
+tags: []
+user_id: c

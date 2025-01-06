@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/936627379886763873
+creation_time: 1736121789416
+experiment_id: '936627379886763873'
+last_update_time: 1736121789416
+lifecycle_stage: active
+name: MLflow_track_diamonds

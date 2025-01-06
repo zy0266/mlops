@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/d500e5986da24a20940e20e3aba7e0d0/artifacts
+end_time: 1736137413851
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: d500e5986da24a20940e20e3aba7e0d0
+run_name: delicate-colt-660
+run_uuid: d500e5986da24a20940e20e3aba7e0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137413407
+status: 4
+tags: []
+user_id: c

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736121796691
+current_stage: None
+description: ''
+last_updated_timestamp: 1736121796691
+name: tracking-diamonds
+run_id: 0144be3709bb49208afa8d01276a7b7c
+run_link: ''
+source: mlflow-artifacts:/936627379886763873/0144be3709bb49208afa8d01276a7b7c/artifacts/Decision
+  Tree_model
+status: READY
+status_message: null
+user_id: null
+version: 2

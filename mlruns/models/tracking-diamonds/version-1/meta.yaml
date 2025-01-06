@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736121793669
+current_stage: None
+description: ''
+last_updated_timestamp: 1736121793669
+name: tracking-diamonds
+run_id: fb3282c15e2447bd907202fe05e6a470
+run_link: ''
+source: mlflow-artifacts:/936627379886763873/fb3282c15e2447bd907202fe05e6a470/artifacts/Linear
+  Regression_model
+status: READY
+status_message: null
+user_id: null
+version: 1

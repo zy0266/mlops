@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/a998c003a2004d1ca21c8f85e27746b1/artifacts
+end_time: 1736137260832
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: a998c003a2004d1ca21c8f85e27746b1
+run_name: clean-kit-317
+run_uuid: a998c003a2004d1ca21c8f85e27746b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137260361
+status: 4
+tags: []
+user_id: c

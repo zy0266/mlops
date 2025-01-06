@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/43cec02ac03f4cdfab1daa68847a0769/artifacts
+end_time: 1736137505427
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 43cec02ac03f4cdfab1daa68847a0769
+run_name: peaceful-grub-845
+run_uuid: 43cec02ac03f4cdfab1daa68847a0769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137504933
+status: 4
+tags: []
+user_id: c

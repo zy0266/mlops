@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/dd4f6124a4f6477dbb2e2eb0aaf627bb/artifacts
+end_time: 1736137191620
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: dd4f6124a4f6477dbb2e2eb0aaf627bb
+run_name: lyrical-wren-419
+run_uuid: dd4f6124a4f6477dbb2e2eb0aaf627bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137191219
+status: 4
+tags: []
+user_id: c

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/936627379886763873/fb3282c15e2447bd907202fe05e6a470/artifacts
+end_time: 1736121793693
+entry_point_name: ''
+experiment_id: '936627379886763873'
+lifecycle_stage: active
+run_id: fb3282c15e2447bd907202fe05e6a470
+run_name: stately-snipe-700
+run_uuid: fb3282c15e2447bd907202fe05e6a470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736121789626
+status: 3
+tags: []
+user_id: c

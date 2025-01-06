@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/9b001857c891468a8994571204a8c355/artifacts
+end_time: 1736137536515
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 9b001857c891468a8994571204a8c355
+run_name: gaudy-skink-394
+run_uuid: 9b001857c891468a8994571204a8c355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137536035
+status: 4
+tags: []
+user_id: c

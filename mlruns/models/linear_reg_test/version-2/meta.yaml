@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1736132788062
+current_stage: None
+description: ''
+last_updated_timestamp: 1736132788062
+name: linear_reg_test
+run_id: 8dc4fade815c412786cd508745fdbd71
+run_link: ''
+source: mlflow-artifacts:/958600936449629552/8dc4fade815c412786cd508745fdbd71/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/36cdfdb25bb440df82838b42db84a3dc/artifacts
+end_time: 1736138758755
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 36cdfdb25bb440df82838b42db84a3dc
+run_name: popular-yak-569
+run_uuid: 36cdfdb25bb440df82838b42db84a3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736138758300
+status: 4
+tags: []
+user_id: c

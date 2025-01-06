@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/3a9e741bbe104fa4b91640fdd5e943ba/artifacts
+end_time: 1736132870044
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 3a9e741bbe104fa4b91640fdd5e943ba
+run_name: carefree-panda-47
+run_uuid: 3a9e741bbe104fa4b91640fdd5e943ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736132865260
+status: 3
+tags: []
+user_id: c

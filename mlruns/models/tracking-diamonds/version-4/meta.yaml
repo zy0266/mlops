@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736122044016
+current_stage: None
+description: ''
+last_updated_timestamp: 1736122044016
+name: tracking-diamonds
+run_id: 772dbda42e2f48d5872c07c3079f074a
+run_link: ''
+source: mlflow-artifacts:/936627379886763873/772dbda42e2f48d5872c07c3079f074a/artifacts/Support
+  Vector Regression_model
+status: READY
+status_message: null
+user_id: null
+version: 4

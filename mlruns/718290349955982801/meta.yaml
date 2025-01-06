@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/718290349955982801
+creation_time: 1736128393873
+experiment_id: '718290349955982801'
+last_update_time: 1736128393873
+lifecycle_stage: active
+name: /mlflow/linear_reg_test

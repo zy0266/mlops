@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/aa8550dd18064e85b99311e4e28e0aa9/artifacts
+end_time: 1736137632034
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: aa8550dd18064e85b99311e4e28e0aa9
+run_name: omniscient-loon-819
+run_uuid: aa8550dd18064e85b99311e4e28e0aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137631547
+status: 4
+tags: []
+user_id: c

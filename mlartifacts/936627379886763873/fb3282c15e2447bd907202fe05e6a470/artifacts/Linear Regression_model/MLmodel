@@ -1,0 +1,23 @@
+artifact_path: Linear Regression_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: 6b0385984da2466ebc2fd16987af56c2
+run_id: fb3282c15e2447bd907202fe05e6a470
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "carat"}, {"type": "string", "name": "cut"},
+    {"type": "string", "name": "color"}, {"type": "string", "name": "clarity"}, {"type":
+    "double", "name": "depth"}, {"type": "double", "name": "table"}, {"type": "double",
+    "name": "''x''"}, {"type": "double", "name": "''y''"}, {"type": "double", "name":
+    "''z''"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-01-06 00:03:09.726012'

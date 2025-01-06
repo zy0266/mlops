@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/958600936449629552
+creation_time: 1736131950363
+experiment_id: '958600936449629552'
+last_update_time: 1736131950363
+lifecycle_stage: active
+name: /mlflow/diamond_predict

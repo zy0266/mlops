@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/2aca7207013d43088d3b2da8b6fe241c/artifacts
+end_time: 1736137758578
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: 2aca7207013d43088d3b2da8b6fe241c
+run_name: whimsical-asp-395
+run_uuid: 2aca7207013d43088d3b2da8b6fe241c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736137758095
+status: 4
+tags: []
+user_id: c

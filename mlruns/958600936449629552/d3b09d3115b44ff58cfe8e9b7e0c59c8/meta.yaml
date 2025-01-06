@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/d3b09d3115b44ff58cfe8e9b7e0c59c8/artifacts
+end_time: 1736138849667
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: d3b09d3115b44ff58cfe8e9b7e0c59c8
+run_name: intrigued-shoat-858
+run_uuid: d3b09d3115b44ff58cfe8e9b7e0c59c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736138844701
+status: 3
+tags: []
+user_id: c

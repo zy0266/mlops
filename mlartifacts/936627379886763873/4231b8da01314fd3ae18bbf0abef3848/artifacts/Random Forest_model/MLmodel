@@ -1,0 +1,23 @@
+artifact_path: Random Forest_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: c8ab0e16c41e4b0f8ac9ab08f91d7f5d
+run_id: 4231b8da01314fd3ae18bbf0abef3848
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "carat"}, {"type": "string", "name": "cut"},
+    {"type": "string", "name": "color"}, {"type": "string", "name": "clarity"}, {"type":
+    "double", "name": "depth"}, {"type": "double", "name": "table"}, {"type": "double",
+    "name": "''x''"}, {"type": "double", "name": "''y''"}, {"type": "double", "name":
+    "''z''"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-01-06 00:04:15.134304'

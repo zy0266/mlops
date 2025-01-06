@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958600936449629552/ec311e061e204c28a60c9aca47cfa407/artifacts
+end_time: 1736133029465
+entry_point_name: ''
+experiment_id: '958600936449629552'
+lifecycle_stage: active
+run_id: ec311e061e204c28a60c9aca47cfa407
+run_name: loud-skunk-824
+run_uuid: ec311e061e204c28a60c9aca47cfa407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736133024604
+status: 3
+tags: []
+user_id: c
